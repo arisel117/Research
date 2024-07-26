@@ -5,12 +5,13 @@
 - [TimeSeriesAnomalyDetection](https://github.com/arisel117/TimeSeriesAnomalyDetection) : AutoML 쪽 추가 정리 필요
 - [Quantization](https://github.com/arisel117/Quantization) : 코드 포함 방법론 정리 예정
 - [NLP](https://github.com/arisel117/NLP) : 진행 예정
+- [XAI](https://github.com/arisel117/XAI) : PyTorch 및 Tensorflow 로 코드 포함 모델들의 예제를 좀 해 볼 예정!
 
 
 ## 내용 정리
 - [DistributedLearning](https://github.com/arisel117/DistributedLearning)
 - [Normalization](https://github.com/arisel117/Normalization)
 - [Weight_Initialization](https://github.com/arisel117/Weight_Initialization)
-- [XAI](https://github.com/arisel117/XAI)
+
 
 
